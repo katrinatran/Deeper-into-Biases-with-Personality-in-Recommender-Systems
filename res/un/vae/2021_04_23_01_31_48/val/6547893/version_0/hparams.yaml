@@ -1,0 +1,11 @@
+act: tanh
+beta: 0.01
+betacap: 0.5
+betasteps: 10000
+doanneal: true
+dp: 0.5
+lr: 0.001
+p_dims: 100,15753
+q_dims: ''
+seed: 6547893
+wd: 0.0
