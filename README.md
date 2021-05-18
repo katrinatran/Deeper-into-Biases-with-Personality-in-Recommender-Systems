@@ -25,5 +25,5 @@ To preprocess the data:
 To run the SR-GNN model:
 - run algorithms/GNN/pytorch\_code/main.py
 
-The datafiles that I have generated for this project were not able to be uploaded onto github so please get it here and put it under algorithms/GNN/pytorch\_code/twitter
+The datafiles that I have generated for this project were not able to be uploaded onto github so please get it here and replace the twitter folder from:  algorithms/GNN/pytorch\_code/twitter
 - Datafiles location: https://drive.google.com/file/d/1ta5UvW-FutAsHjOTeQMjS1CrYezwzssU/view?usp=sharing
